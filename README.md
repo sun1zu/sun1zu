@@ -12,7 +12,7 @@ Telegram: sun1zu
 
 
 # Some mainstream github stuff
-👩‍💻 I'm currently working on Web3 startup
+👩‍💻 I'm currently looking for a job
 
 🧠 I'm currently learning Unreal Engine, Rust, C++
 

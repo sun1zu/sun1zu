@@ -14,7 +14,7 @@ Telegram: sun1zu
 # Some mainstream github stuff
 👩‍💻 I'm currently looking for a job
 
-🧠 I'm currently learning Unreal Engine, Rust, C++
+🧠 I'm currently learning Unity, C#, C++
 
 👯‍♀️ I'm looking to collaborate on anything! Just ask me, I won't bite you
 

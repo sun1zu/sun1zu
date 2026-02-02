@@ -12,11 +12,11 @@ Telegram: sun1zu
 
 
 # Some mainstream github stuff
-👩‍💻 I'm currently looking for a job
+👩‍💻 I'm currently employed as a Unity developer
 
-🧠 I'm currently learning Unity, C#, C++
+🧠 I'm currently learning Unity, C#
 
-👯‍♀️ I'm looking to collaborate on anything! Just ask me, I won't bite you
+👯‍♀️ I'm looking to collaborate on startups and games
 
 💬 Ask me about anything you see on my Skills list
 
